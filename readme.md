@@ -4,7 +4,7 @@
 <!-- Descripcion detallada del proyecto -->
 # Descripcion
 
-Carpeta que se busca convertir en una Libreria de fucnionalidades utiles
+Carpeta que se busca convertir en una Libreria de funcionalidades utiles
 
 - ### Funcion Campos Obligatorios con una Clase 
 
