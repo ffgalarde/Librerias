@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="css/loader.css">
 <h1>Demo Campos Obligatorios</h1>
 <div id="formulario">
     <input id="input1" class="OBLIGATORIO">
@@ -10,9 +11,11 @@
 <br>
 <button onclick="ocultarInput5()">Ocultar/Mostrar Input5</button>
 <button onclick="prueba()">Probar</button>
+<button onclick="jsShowWindowLoad('Recarga la Pag para remover el loader')">Mostrar Loader</button>
 
 <script src="jquery/jquery.min.js"></script>
-<script src="js/functions.js"></script>
+<script src="js/camposObligatorios.js"></script>
+<script src="js/loader.js"></script>
 
 <script>
 function ocultarInput5(){
